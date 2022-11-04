@@ -1,0 +1,38 @@
+.btn{
+  padding: 8px;
+  border: 4px solid rgb(227, 115, 182);
+  border-radius: 40px;
+  color: rgb(207, 205, 205);
+font-weight: bold;
+background-color: rgba(9, 133, 133, 0.125);
+}
+.btn:hover{
+  font-size: 150%;
+}
+.stream{
+padding: 20px;
+display: inline-block;
+margin: 0 50px ;
+color: black;
+
+}
+
+ul{
+  text-align: center;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.l1:hover{
+  font-size: 150%;
+  color: white;
+}
+.l2:hover{
+  font-size: 150%;
+  color: white;
+}
+.l3:hover{
+  font-size: 150%;
+  color: white;
+}
